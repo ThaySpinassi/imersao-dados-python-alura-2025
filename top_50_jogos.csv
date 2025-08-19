@@ -1,0 +1,51 @@
+Ranking,Nome,Plataforma,Ano,Gênero,Empresa_Jogos,Vendas_NA,Vendas_EU,Vendas_JP,Outras_Vendas,Vendas_Globais
+1,Wii Sports,Nintendo Wii,2006,Esportes,Nintendo,41.49,29.02,3.77,8.46,82.74
+2,Super Mario Bros.,NES,1985,Plataforma,Nintendo,29.08,3.58,6.81,0.77,40.24
+3,Mario Kart Wii,Nintendo Wii,2008,Corrida,Nintendo,15.85,12.88,3.79,3.31,35.82
+4,Wii Sports Resort,Nintendo Wii,2009,Esportes,Nintendo,15.75,11.01,3.28,2.96,33.0
+5,Pokemon Red/Pokemon Blue,Game Boy,1996,RPG,Nintendo,11.27,8.89,10.22,1.0,31.37
+6,Tetris,Game Boy,1989,Quebra-cabeça,Nintendo,23.2,2.26,4.22,0.58,30.26
+7,New Super Mario Bros.,Nintendo DS,2006,Plataforma,Nintendo,11.38,9.23,6.5,2.9,30.01
+8,Wii Play,Nintendo Wii,2006,Diversos,Nintendo,14.03,9.2,2.93,2.85,29.02
+9,New Super Mario Bros. Wii,Nintendo Wii,2009,Plataforma,Nintendo,14.59,7.06,4.7,2.26,28.62
+10,Duck Hunt,NES,1984,Tiro,Nintendo,26.93,0.63,0.28,0.47,28.31
+11,Nintendogs,Nintendo DS,2005,Simulação,Nintendo,9.07,11.0,1.93,2.75,24.76
+12,Mario Kart DS,Nintendo DS,2005,Corrida,Nintendo,9.81,7.57,4.13,1.92,23.42
+13,Pokemon Gold/Pokemon Silver,Game Boy,1999,RPG,Nintendo,9.0,6.18,7.2,0.71,23.1
+14,Wii Fit,Nintendo Wii,2007,Esportes,Nintendo,8.94,8.03,3.6,2.15,22.72
+15,Wii Fit Plus,Nintendo Wii,2009,Esportes,Nintendo,9.09,8.59,2.53,1.79,22.0
+16,Kinect Adventures!,Xbox 360,2010,Diversos,Microsoft Game Studios,14.97,4.94,0.24,1.67,21.82
+17,Grand Theft Auto V,PlayStation 3,2013,Ação,Take-Two Interactive,7.01,9.27,0.97,4.14,21.4
+18,Grand Theft Auto: San Andreas,PlayStation 2,2004,Ação,Take-Two Interactive,9.43,0.4,0.41,10.57,20.81
+19,Super Mario World,SNES,1990,Plataforma,Nintendo,12.78,3.75,3.54,0.55,20.61
+20,Brain Age: Train Your Brain in Minutes a Day,Nintendo DS,2005,Diversos,Nintendo,4.75,9.26,4.16,2.05,20.22
+21,Pokemon Diamond/Pokemon Pearl,Nintendo DS,2006,RPG,Nintendo,6.42,4.52,6.04,1.37,18.36
+22,Super Mario Land,Game Boy,1989,Plataforma,Nintendo,10.83,2.71,4.18,0.42,18.14
+23,Super Mario Bros. 3,NES,1988,Plataforma,Nintendo,9.54,3.44,3.84,0.46,17.28
+24,Grand Theft Auto V,Xbox 360,2013,Ação,Take-Two Interactive,9.63,5.31,0.06,1.38,16.38
+25,Grand Theft Auto: Vice City,PlayStation 2,2002,Ação,Take-Two Interactive,8.41,5.49,0.47,1.78,16.15
+26,Pokemon Ruby/Pokemon Sapphire,Game Boy Advance,2002,RPG,Nintendo,6.06,3.9,5.38,0.5,15.85
+27,Pokemon Black/Pokemon White,Nintendo DS,2010,RPG,Nintendo,5.57,3.28,5.65,0.82,15.32
+28,Brain Age 2: More Training in Minutes a Day,Nintendo DS,2005,Quebra-cabeça,Nintendo,3.44,5.36,5.32,1.18,15.3
+29,Gran Turismo 3: A-Spec,PlayStation 2,2001,Corrida,Sony Computer Entertainment,6.85,5.09,1.87,1.16,14.98
+30,Call of Duty: Modern Warfare 3,Xbox 360,2011,Tiro,Activision,9.03,4.28,0.13,1.32,14.76
+32,Call of Duty: Black Ops,Xbox 360,2010,Tiro,Activision,9.67,3.73,0.11,1.13,14.64
+31,Pokémon Yellow: Special Pikachu Edition,Game Boy,1998,RPG,Nintendo,5.89,5.04,3.12,0.59,14.64
+33,Pokemon X/Pokemon Y,Nintendo 3DS,2013,RPG,Nintendo,5.17,4.05,4.34,0.79,14.35
+34,Call of Duty: Black Ops 3,PlayStation 4,2015,Tiro,Activision,5.77,5.81,0.35,2.31,14.24
+35,Call of Duty: Black Ops II,PlayStation 3,2012,Tiro,Activision,4.99,5.88,0.65,2.52,14.03
+36,Call of Duty: Black Ops II,Xbox 360,2012,Tiro,Activision,8.25,4.3,0.07,1.12,13.73
+37,Call of Duty: Modern Warfare 2,Xbox 360,2009,Tiro,Activision,8.52,3.63,0.08,1.29,13.51
+38,Call of Duty: Modern Warfare 3,PlayStation 3,2011,Tiro,Activision,5.54,5.82,0.49,1.62,13.46
+39,Grand Theft Auto III,PlayStation 2,2001,Ação,Take-Two Interactive,6.99,4.51,0.3,1.3,13.1
+40,Super Smash Bros. Brawl,Nintendo Wii,2008,Luta,Nintendo,6.75,2.61,2.66,1.02,13.04
+41,Call of Duty: Black Ops,PlayStation 3,2010,Tiro,Activision,5.98,4.44,0.48,1.83,12.73
+42,Animal Crossing: Wild World,Nintendo DS,2005,Simulação,Nintendo,2.55,3.52,5.33,0.88,12.27
+43,Mario Kart 7,Nintendo 3DS,2011,Corrida,Nintendo,4.74,3.91,2.67,0.89,12.21
+44,Halo 3,Xbox 360,2007,Tiro,Microsoft Game Studios,7.97,2.83,0.13,1.21,12.14
+45,Grand Theft Auto V,PlayStation 4,2014,Ação,Take-Two Interactive,3.8,5.81,0.36,2.02,11.98
+46,Pokemon HeartGold/Pokemon SoulSilver,Nintendo DS,2009,Ação,Nintendo,4.4,2.77,3.96,0.77,11.9
+47,Super Mario 64,Nintendo 64,1996,Plataforma,Nintendo,6.91,2.85,1.91,0.23,11.89
+48,Gran Turismo 4,PlayStation 2,2004,Corrida,Sony Computer Entertainment,3.01,0.01,1.1,7.53,11.66
+49,Super Mario Galaxy,Nintendo Wii,2007,Plataforma,Nintendo,6.16,3.4,1.2,0.76,11.52
+50,Pokemon Omega Ruby/Pokemon Alpha Sapphire,Nintendo 3DS,2014,RPG,Nintendo,4.23,3.37,3.08,0.65,11.33
